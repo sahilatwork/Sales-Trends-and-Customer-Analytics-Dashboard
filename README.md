@@ -23,8 +23,11 @@ The dashboard helps stakeholders:
 - **Data Visualization** → Storytelling with KPIs, filters, and drill-downs  
 
 ## 📸 Dashboard Previews
-![Sales Dashboard](images/Sales Dashboard.png)  
-![Customer Dashboard](images/Customer Dashboard.png)  
+### Sales Dashboard  
+![Sales Dashboard](images/Sales%20Dashboard.png)
+
+### Customer Dashboard  
+![Customer Dashboard](images/Customer%20Dashboard.png)
 
 ## 📈 Key Insights
 - Seasonal peaks in sales highlight strong Q4 performance.  
