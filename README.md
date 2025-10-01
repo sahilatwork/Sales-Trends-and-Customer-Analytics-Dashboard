@@ -35,7 +35,7 @@ The dashboard helps stakeholders:
 - Customer churn risk identified in specific regions; recommendation: targeted retention campaigns.  
 
 ## 🚀 How to Use
-1. Open the [Tableau Public link](https://public.tableau.com/app/profile/sahil.sharma1936/viz/SalesTrendsandCustomerAnalytics/CustomerDashboard).  
+1. Open the [Tableau Public link]([https://public.tableau.com/app/profile/sahil.sharma1936/viz/SalesTrendsandCustomerAnalytics/CustomerDashboard](https://public.tableau.com/app/profile/sahil.sharma1936/vizzes)).  
 2. Use the **navigation buttons** to switch between **Sales** and **Customer** dashboards.  
 3. Apply filters to explore results by product, region, or customer type.  
 4. Hover over charts to view detailed KPIs and trends.  
