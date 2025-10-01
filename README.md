@@ -24,7 +24,7 @@ The dashboard helps stakeholders:
 
 ## 📸 Dashboard Previews
 ![Sales Dashboard](images/sales_dashboard.png)  
-![Customer Dashboard](images/customer_dashboard.png)  
+![Customer Dashboard](images/Sales Dashboard.png)  
 
 ## 📈 Key Insights
 - Seasonal peaks in sales highlight strong Q4 performance.  
